@@ -1,0 +1,25 @@
+.g {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: #7c3c21;
+}
+hr {
+    width: 40%;
+}
+.round {
+    padding-left: 45%;
+}
+.st {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    line-height: 40px;
+}
+.auther {
+    text-align: right;
+    padding-right: 40px;
+    font-family: 'Pacifico', cursive;
+    color: #df5e88;
+    font-size: 20px;
+}

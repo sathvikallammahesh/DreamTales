@@ -1,0 +1,114 @@
+.title {
+    text-align: center;
+    color: #29252c;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+.des {
+    text-align: center;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    font-size: 22px;
+}
+.story {
+    font-family: 'Fredoka One', cursive;
+    color: black;
+    font-size: 30px;
+    line-height: 45px;
+}
+.chapter1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+    color: #fa4659;
+}
+.st {
+    text-align: center;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 45px;
+}
+.chapter2 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+    color: #fa4659;
+}
+.dis {
+    text-align: center;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 45px;
+}
+.chap3 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+    color: #fa4659;
+}
+.st3 {
+    text-align: center;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 45px;
+}
+.ch4 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+    color: #fa4659;
+}
+.st4 {
+    text-align: center;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 45px;
+}
+.ch5 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+    color: #fa4659;
+}
+.st5 {
+    text-align: center;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 45px;
+}
+.part-2 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: black;
+    line-height: 30px;
+}
+nav ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Fredoka One', cursive;
+    padding: 4px 20px;
+    border-radius: 50px;
+    background: linear-gradient(#848ccf, #93b5e1);
+}
+a:hover {
+    background: linear-gradient(#848ccf, #93b5e1);
+    color: #fddb3a;
+}

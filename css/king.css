@@ -1,0 +1,13 @@
+.king {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: red;
+    font-size: 30px;
+}
+.story {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    line-height: 40px;
+    font-size: 30px;
+}

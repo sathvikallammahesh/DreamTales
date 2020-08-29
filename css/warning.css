@@ -1,0 +1,32 @@
+.header {
+    text-align: center;
+    color: #f12b6b;
+    font-family: 'Pacifico', cursive;
+    font-size: 19px;
+}
+.cont {
+    text-align: center;
+    font-size: 19px;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    line-height: 35px;
+}
+nav ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    padding-left: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 10px;
+    border-radius: 50px;
+    color: #fff;
+    background: linear-gradient(#ff467e, #fd94b4);
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 45%;
+}
+a:hover {
+    background: linear-gradient(#f12b6b, #f6c7c7);
+}

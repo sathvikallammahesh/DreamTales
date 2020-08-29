@@ -1,0 +1,13 @@
+.bound {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: darkcyan;
+    font-size: 30px;
+}
+.st {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    line-height: 40px;
+    font-size: 30px;
+}

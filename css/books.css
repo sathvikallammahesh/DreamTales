@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+}
+header {
+    background: #fff;
+}
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+.img {
+    float: left;
+}
+nav {
+    float: right;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 26px;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+nav a:hover {
+    color: #ce0f3d;
+}
+/*nav bar ends here*/
+.heading {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color: #fb7813;
+}
+.books {
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.common {
+    padding-left: 40px;
+    font-family: 'Fredoka One', cursive;
+}
+.story {
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Pacifico', cursive;
+    font-size: 26px;
+    color: #00bcd4;
+}
+hr {
+    width: 20%;
+    color: gray;
+}
+.action {
+    padding-left: 40px;
+    font-family: 'Fredoka One', cursive;
+}
+.pic {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color: #ff2e63;
+}
+.p {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.r {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.cindrella {
+    text-align: center;
+    color: #ff2e63;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+.c {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.a {
+    padding-left: 40px;
+    font-family: 'Fredoka One', cursive;
+}
+.gulliver {
+    text-align: center;
+    color: #be5683;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+.d {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.thriller {
+    text-align: center;
+    color: #0f3460;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+.st9 {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.moral {
+    padding-right: 80%;
+    font-family: 'Fredoka One', cursive;
+    color: black;
+    font-size: 20px;
+}
+.bound {
+    text-align: center;
+    color: yellowgreen;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+.king {
+    text-align: center;
+    color: yellowgreen;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+.st10 {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
